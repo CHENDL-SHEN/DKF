@@ -1,5 +1,3 @@
-# DKF
-
 # Weakly Supervised Lesion Segmentation for Breast Ultrasound via Dual-Knowledge Fusion 
 
 This repository is the official implementation of "Weakly Supervised Lesion Segmentation for Breast Ultrasound via Dual-Knowledge Fusion ". 
